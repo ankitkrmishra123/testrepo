@@ -9,6 +9,7 @@ x=$(( 3+4 ))
 y=$(( 3*4 ))
 
 #division
+q=$(( 14/2 ))
 
 
 #substraction
