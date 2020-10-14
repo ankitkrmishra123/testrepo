@@ -2,6 +2,8 @@ i#! /bin/bash
 
 #addition
 
+x=$(( 3+4 ))
+
 
 #multiplication
 
