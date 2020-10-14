@@ -6,7 +6,7 @@ x=$(( 3+4 ))
 
 
 #multiplication
-
+y=$(( 3*4 ))
 
 #division
 
