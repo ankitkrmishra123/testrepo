@@ -1,0 +1,12 @@
+i#! /bin/bash
+
+#addition
+
+
+#multiplication
+
+
+#division
+
+
+#substraction
